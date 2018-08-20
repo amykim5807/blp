@@ -1,0 +1,1 @@
+void simulateMarketShares(double *delta, int N, int Nmarkets,int NS,double mu[][NS], double *cdindex, double *weights, double *share, double *marketshare, double *error);
